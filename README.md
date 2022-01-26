@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @bedram1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Bedram Verma
+- 👀 I’m interested in CICD 2.0
+- 🌱 I’m currently working a project using GigHub.
+- 💞️ I’m looking to collaborate on CICD 2.0
+- 📫 I am reachable to my email id
 
 <!---
 bedram1/bedram1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
